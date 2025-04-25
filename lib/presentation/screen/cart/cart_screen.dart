@@ -134,6 +134,9 @@ class CartScreen extends StatelessWidget {
                       child: const Text('Checkout'),
                     ),
                   ),
+                  const SizedBox(
+                    height: 40,
+                  )
                 ],
               ),
             ),

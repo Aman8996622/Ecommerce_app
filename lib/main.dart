@@ -17,7 +17,7 @@ void main() async {
   Get.put(AuthController());
   Get.put(ProductController());
   Get.put(CartController());
-  // Get.put(ConnectivityController());
+
 
   runApp(MyApp());
 }
