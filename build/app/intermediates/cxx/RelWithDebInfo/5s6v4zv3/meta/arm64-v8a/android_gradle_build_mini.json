@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/amansharma/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/amansharma/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/amansharma/flutter projects/Ecommerce_app/android/app/.cxx/RelWithDebInfo/5s6v4zv3/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/amansharma/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/amansharma/flutter projects/Ecommerce_app/android/app/.cxx/RelWithDebInfo/5s6v4zv3/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
